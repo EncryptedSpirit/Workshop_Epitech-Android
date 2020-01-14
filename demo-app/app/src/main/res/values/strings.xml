@@ -3,4 +3,8 @@
     <string name="navbar_home">home</string>
     <string name="navbar_account">account</string>
     <string name="navbar_settings">settings</string>
+    <string name="empty_layout_txt">This is a empty layout</string>
+    <string name="homefrag_txt">You are in the Home Fragment</string>
+    <string name="accountfrag_txt">You are in the Account Fragment</string>
+    <string name="settingsfrag_txt">You are in the Settings Fragment</string>
 </resources>
