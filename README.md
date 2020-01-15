@@ -10,22 +10,10 @@ You have to download **Android Studio** to continue this worksop and create a ph
 
 ## Course of event
 
-You will find many exercices in the files available inside the git.
-
-You might start by the Exercice1 unless you categorize yourself as :
-
-* **amateur** -> start to exercice*{needtobedefine}*
-* **intermediate** -> start to exercice*{needtobedefine}*
-* **others** -> start to exercice*{needtobedefine}*
-
-If you did everything, you can made pull request at this git repository :
-*linktobedefine*
-
-## Useful 'documentation'
-
+You will find many exercices in the exercices.pdf
 
 ## Authors
-This workshop is provide by *Tyliam Silvini* and *Pierre Estrad-gesnet*.
+This workshop is provide by *Tyliam Silvini*.
 
 You can contact us to **tyliam.silvini@epitech.eu** to share your impressions. That can help us to improve ourselves
 and give you betters workshop 😀
