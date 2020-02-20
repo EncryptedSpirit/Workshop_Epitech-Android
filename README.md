@@ -11,9 +11,3 @@ You have to download **Android Studio** to continue this worksop and create a ph
 ## Course of event
 
 You will find many exercices in the exercices.pdf
-
-## Authors
-This workshop is provide by *Tyliam Silvini*.
-
-You can contact us to **tyliam.silvini@epitech.eu** to share your impressions. That can help us to improve ourselves
-and give you betters workshop 😀
