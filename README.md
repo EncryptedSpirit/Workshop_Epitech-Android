@@ -6,7 +6,7 @@ We'll use the Kotlin framework. We'll explain this choice in the presentation of
 
 ## Configuration
 
-You have to download **Android Studio** to continue this worksop and create a phone emulate with Android Q. (Hope you did that before the workshop, that can be take time...)
+You have to download **Android Studio** to continue this worksop and create a phone emulate with Android Q.
 
 ## Course of event
 
