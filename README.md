@@ -10,4 +10,4 @@ You have to download **Android Studio** to continue this worksop and create a ph
 
 ## Course of event
 
-You will find many exercices in the exercices.pdf
+You will find many exercices in the workshop.pdf
